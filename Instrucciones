@@ -1,0 +1,15 @@
+*Plataforma Base:
+-php 8
+-Base de Datos(mysql)
+*Pre requesitos de Instalacion :
+-Poseer una version Actualizada de cualquier navegador WED(Chorme,Morzilla Firefox,Edge)
+-Debe Instalar Xampp en el Ordenado y Ubicar el Repositorio o Carpeta en la carpeta htdocs donde guardara el proyecto
+-Debe Instalar Instalar Mysql en el sistema operativo de preferencia.
+
+*Los Iconos de Editar y Eliminar son de una CDN llamada FONT AWESOME
+*los Estilos son Tomados de Bootstrap4 
+
+*Ejecucion:
+-Iniciar el servidor Web Xampp, haciendo clic en el boton de star  para iniciar Apache y MySql
+-Acceder a la siguiente Ruta:http://localhost/phpmyadmin/ para la administracion de la Base de Datos, y ahi crear la base de datos Konecta con las tablas correspondientes que se encuentran en la carpeta Scripts.sql.
+-Acceder a la siguiente Ruta:http://localhost/konecta/ es donde tenemos todos los archivos de la aplicacion 
